@@ -10,25 +10,6 @@ You should use turing_data_analytics.subscriptions table to answer this question
 
 ## Results, Key Insights, and Recommendations
 
-🔷 **Best Retention – December Cohorts**
-December cohorts had the strongest retention, with high user counts and low churn, especially 2020-12-20, which showed exceptional user satisfaction, engagement, and loyalty (96%→93%).
-
-🔷 **Weakest Retention – November Cohorts**
-November cohorts showed the highest churn (12–16%), with 2020-11-08 retaining the fewest users, indicating weaker engagement.
-
-✅ Early Drop-off is Critical
-Most users churn between Week 0 and Week 1, highlighting onboarding as a key area for improvement.
-
-✅ Retention Stabilizes After Week 3
-Users who remain past Week 3 tend to stay long-term, signaling a strong retention threshold.
-
-✅ Week 1 Churn Predicts Long-Term Retention
-Lower Week 1 churn (as seen in December) strongly correlates with higher long-term retention; early engagement strategies are essential.
-
-✅ January Trends
-Retention is improving, but Week 1 remains the biggest drop-off, reinforcing the need for stronger onboarding.
-
-
 🔷 **December cohorts had the strongest retention**, with high user counts and low churn, especially 2020-12-20, which showed exceptional user satisfaction, engagement, and loyalty (96%→93%).
 
 🔷 In contrast, **November cohorts**, particularly 2020-11-08, **had the weakest retention and highest churn** (12–16%), indicating poor engagement.
