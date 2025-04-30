@@ -9,8 +9,8 @@ You remember learning previously that cohort analysis can be really helpful in s
 You should use turing_data_analytics.subscriptions table to answer this question. Please write a SQL that would extract data from the BigQuery, make a visualization using Google spreadsheets, and briefly comment on your findings.
 
 ## Results, Key Insights, and Recommendations
-🔷
-🔷**Best Retention – December Cohorts**
+
+🔷 **Best Retention – December Cohorts**
 December cohorts had the strongest retention, with high user counts and low churn, especially 2020-12-20, which showed exceptional user satisfaction, engagement, and loyalty (96%→93%).
 
 🔷 **Weakest Retention – November Cohorts**
@@ -29,13 +29,15 @@ Lower Week 1 churn (as seen in December) strongly correlates with higher long-te
 Retention is improving, but Week 1 remains the biggest drop-off, reinforcing the need for stronger onboarding.
 
 
-- December cohorts had the strongest retention, with high user counts and low churn, especially 2020-12-20, which showed exceptional user satisfaction, engagement, and loyalty (96%→93%).
+🔷 **December cohorts had the strongest retention**, with high user counts and low churn, especially 2020-12-20, which showed exceptional user satisfaction, engagement, and loyalty (96%→93%).
 
-- In contrast, November cohorts, particularly 2020-11-08, had the weakest retention and highest churn (12–16%), indicating poor engagement.
+🔷 In contrast, **November cohorts**, particularly 2020-11-08, **had the weakest retention and highest churn** (12–16%), indicating poor engagement.
 
-- The most significant drop-off occurs between Week 0 and Week 1, making onboarding critical.
+🔷 **The most significant drop-off occurs between Week 0 and Week 1**, making onboarding critical.
 
-- Retention stabilizes after Week 3, and lower Week 1 churn strongly predicts long-term retention.
+🔷 **Retention stabilizes after Week 3**, signaling a strong retention threshold. 
 
-- January trends show improvement, but Week 1 remains the key challenge, reinforcing the importance of early engagement.
+🔷 **Lower Week 1 churn** (as seen in December) **strongly correlates with higher long-term retention**; early engagement strategies are essential.
+
+🔷 **January cohort trends show improvement**, but Week 1 remains the key challenge, reinforcing the importance of early engagement.
 
