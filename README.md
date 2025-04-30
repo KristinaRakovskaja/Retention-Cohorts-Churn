@@ -6,7 +6,7 @@ Your Product Manager (PM) has tasked you with analyzing subscription churn from 
 
 You remember learning previously that cohort analysis can be really helpful in such cases. You should provide weekly subscription data that shows how many subscribers started their subscription in a particular week and how many remain active in the following 6 weeks. Your end result should show weekly retention cohorts for each week of data available in the dataset and their retention from `week 0` to `week 6`. Assume that you are doing this analysis on `2021-02-07`.
 
-You should use turing_data_analytics.subscriptions table to answer this question. Please write a SQL that would extract data from the BigQuery, make a visualization using Google spreadsheets, and briefly comment on your findings.
+Please write a SQL that would extract data from BigQuery, make a visualization using Google spreadsheets, and briefly comment on your findings.
 
 ## Results, Key Insights, and Recommendations
 
@@ -47,3 +47,7 @@ Deep dive into the highest-retaining cohort to uncover specific strategies and s
 - Offer early incentives or discounts
 
 - Ensure accessible, clear user support
+
+---  <br>
+
+🔗 Link to the Google Sheets analysis: [Google Sheets](https://docs.google.com/spreadsheets/d/1ZVJZYT--ABQkpMTyZ8n020-kX3Z2RCWM/edit?usp=sharing&ouid=112818362880001846773&rtpof=true&sd=true)
