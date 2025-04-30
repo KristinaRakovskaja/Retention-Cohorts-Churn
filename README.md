@@ -9,7 +9,7 @@ You remember learning previously that cohort analysis can be really helpful in s
 You should use turing_data_analytics.subscriptions table to answer this question. Please write a SQL that would extract data from the BigQuery, make a visualization using Google spreadsheets, and briefly comment on your findings.
 
 ## Results, Key Insights, and Recommendations
-
+🔷
 🔷**Best Retention – December Cohorts**
 December cohorts had the strongest retention, with high user counts and low churn, especially 2020-12-20, which showed exceptional user satisfaction, engagement, and loyalty (96%→93%).
 
