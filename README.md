@@ -14,9 +14,9 @@ You should use turing_data_analytics.subscriptions table to answer this question
 
 #### 💡Key Insights
 
-◾ **December cohorts had the strongest retention**, with high user counts and low churn, especially 2020-12-20, which showed exceptional user satisfaction, engagement, and loyalty (96%→93%).
+◾ **December cohorts had the strongest retention**, with high user counts and low churn, especially `2020-12-20`, which showed exceptional user satisfaction, engagement, and loyalty (96%→93%).
 
-◾ In contrast, **November cohorts**, particularly 2020-11-08, **had the weakest retention and highest churn** (12–16%), indicating poor engagement.
+◾ In contrast, **November cohorts**, particularly `2020-11-08`, **had the weakest retention and highest churn** (12–16%), indicating poor engagement.
 
 ◾ **The most significant drop-off occurs between Week 0 and Week 1**, making onboarding critical.
 
