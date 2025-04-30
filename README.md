@@ -1,1 +1,1 @@
-# Retention-Cohorts-Churn
+# Retention, Cohorts & Churn
