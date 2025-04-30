@@ -10,7 +10,8 @@ You should use turing_data_analytics.subscriptions table to answer this question
 
 ## Results, Key Insights, and Recommendations
 
-✅ **Best Retention – December Cohorts**
+- **Best Retention – December Cohorts**
+
 December cohorts had the strongest retention, with high user counts and low churn, especially 2020-12-20, which showed exceptional user satisfaction, engagement, and loyalty (96%→93%).
 
 ✅ **Weakest Retention – November Cohorts**
