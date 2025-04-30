@@ -22,3 +22,5 @@ You should use turing_data_analytics.subscriptions table to answer this question
 
 🟡 **January cohort trends show improvement**, but Week 1 remains the key challenge, reinforcing the importance of early engagement.
 
+![image](https://github.com/user-attachments/assets/395d981f-efd2-4dce-9afb-a765b5a3a5f3)
+
