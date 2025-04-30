@@ -48,6 +48,6 @@ Deep dive into the highest-retaining cohort to uncover specific strategies and s
 
 - Ensure accessible, clear user support
 
----  <br>
+---  
 
 🔗 Link to the Google Sheets analysis: [Google Sheets](https://docs.google.com/spreadsheets/d/1ZVJZYT--ABQkpMTyZ8n020-kX3Z2RCWM/edit?usp=sharing&ouid=112818362880001846773&rtpof=true&sd=true)
