@@ -25,4 +25,7 @@ You should use turing_data_analytics.subscriptions table to answer this question
 
 ![image](https://github.com/user-attachments/assets/5ddc5c1d-ec5a-48ee-9432-72634407df02)
 
+![image](https://github.com/user-attachments/assets/824974f5-86dd-4684-b6a4-b4928119fada)
+
+
 
