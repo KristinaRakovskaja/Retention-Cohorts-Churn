@@ -2,11 +2,11 @@
 
 ## Project Background & Overview
 
-As part of an initiative led by our Product Manager (PM), I’ve been asked to shift our retention analysis from a **monthly view** to a more granular **weekly perspective**. The rationale is that monthly retention may delay the identification of churn patterns, whereas weekly tracking can uncover early warning signs and provide more timely insights for improving subscription retention strategies.
+As part of an initiative led by the Product Manager (PM), I’ve been asked to shift our retention analysis from a **monthly view** to a more granular **weekly perspective**. The rationale is that monthly retention may delay the identification of churn patterns, whereas weekly tracking can uncover early warning signs and provide more timely insights for improving subscription retention strategies.
 
-To address this, I designed a weekly cohort analysis using the *turing_data_analytics.subscriptions* table in BigQuery. The goal was to calculate how many users started their subscriptions in each calendar week and track how many of them remained active during the subsequent six weeks (weeks 0–6), assuming that I'm doing this analysis on `2021-02-07`.
+To address this, I designed a **weekly cohort analysis** using the *turing_data_analytics.subscriptions* table in BigQuery. The goal was to calculate how many users started their subscriptions in each calendar week and track how many of them remained active during the subsequent six weeks (weeks 0–6), assuming that I'm doing this analysis on `2021-02-07`.
 
-My goal was to write a SQL query that would extract data from BigQuery, make a visualization using Google spreadsheets, and briefly comment on the findings.
+My tasks were to write a SQL query that would extract data from BigQuery, make a visualization using Google spreadsheets, and briefly comment on the findings.
 
 ## Results, Key Insights, and Recommendations
 
